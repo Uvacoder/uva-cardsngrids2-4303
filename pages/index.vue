@@ -58,7 +58,7 @@
         <NotFound class="text-light-900 dark:text-dark-100"></NotFound>
         <a
           class="inline-flex flex-col items-center"
-          href="https://github.com/zernonia/supabase-sql/issues/new?assignees=&labels=&template=feature_request.md&title="
+          href="https://github.com/uvacoder/uva-cardsnfrids2-4303/issues/new?assignees=&labels=&template=feature_request.md&title="
           rel="noreferrer"
           target="_blank"
         >
