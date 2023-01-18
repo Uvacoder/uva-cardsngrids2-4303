@@ -89,7 +89,7 @@
           "
         >
           <a
-            :href="`https://github.com/zernonia/supabase-sql/edit/master/content/sql/${$route.params.slug}.md`"
+            :href="`https://github.com/uvacoder/uva-cardsngrids2-4303/edit/master/content/sql/${$route.params.slug}.md`"
             rel="noreferrer"
             target="_blank"
             class="inline-flex items-center text-warm-gray-400"
