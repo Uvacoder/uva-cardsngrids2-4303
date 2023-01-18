@@ -9,15 +9,15 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxt/content": "^1.14.0",
-    "@nuxtjs/composition-api": "^0.29.0",
+    "@nuxt/content": "^2.3.0",
+    "@nuxtjs/composition-api": "^0.33.1",
     "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/robots": "^2.5.0",
     "@nuxtjs/sitemap": "^2.4.0",
     "@vueuse/core": "^6.3.3",
     "clipboard": "^2.0.8",
-    "core-js": "^3.15.1",
-    "nuxt": "^2.15.7"
+    "core-js": "^3.27.1",
+    "nuxt": "^3.0.0"
   },
   "devDependencies": {
     "@iconify/json": "^1.1.401",
@@ -27,5 +27,8 @@
     "nuxt-vite": "^0.2.4",
     "nuxt-windicss": "^1.1.1",
     "unplugin-icons": "^0.10.0"
+  },
+  "engines": {
+    "node":"16.18.1"
   }
 }
